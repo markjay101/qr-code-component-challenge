@@ -9,14 +9,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  -[Useful Resource/s](#useful-resources)
 - [Author](#author)
 
 ## Overview
 
 ### Screenshot
-screenshot of desktop and mobile
+##Desktop
+![image](https://user-images.githubusercontent.com/125184798/230760400-469839ba-880f-4c09-8da8-79d78091f1ec.png)
+
+##Mobile
+![image](https://user-images.githubusercontent.com/125184798/230760431-19434b28-9800-4caf-92f4-bdbd24693521.png)
+
 
 ## My process
 
